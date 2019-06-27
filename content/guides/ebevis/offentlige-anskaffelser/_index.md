@@ -30,3 +30,12 @@ Eksempel med kun åpne data:
 Eksempel med åpne data og samtykke:
 <div style="width: 720px; height: 480px; margin: 10px; position: relative;">
 <iframe allowfullscreen frameborder="0" style="width:100%; height:100%" src="https://www.lucidchart.com/documents/embeddedchart/d7549490-d774-4d18-987f-e105dc50bb03" id="RgU7xB.Kh4ta"></iframe></div>
+
+## Les mer om anskaffelser 
+
+* Lenke til [Difis dokumentasjon om anskaffelsesprosessen](https://www.anskaffelser.no/anskaffelsesprosessen) 
+
+* Lenke til [Difis dokumentasjon om EHF](https://www.anskaffelser.no/verktoy/veiledere/elektronisk-handelsformat-ehf-veileder-systemleverandorer)
+
+* Lenke til [ytterligere dokumentasjon om EHF](https://test-vefa.difi.no/ehf-egov/g1/get-evidence-1.0/)
+
