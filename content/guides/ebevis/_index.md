@@ -50,6 +50,10 @@ Hjemmelsgrunnlag vil for enkelte beviskoder være ulikt før og etter kontraktsi
 
 Andre beviskoder vil kunne kreve et samtykke. eBevis vil da igangsette en samtykkeprosess i Altinn. En representant fra virksomheten, med tilstrekkelig tilgangsnivå, må logge seg inn i Altinn-portalen og innvilge et aktivt samtykke. Tilgangsnivået styres ut fra roller fra Enhetsregisteret, og eventuelt delegerte roller i Altinn.
 
+Roller fra Enhetsregisteret som har tilgang til å gi samtykke kan være bla. Daglig leder, Styrets leder, og Innehaver. For å lese melding om samtykke og avgi samtykke er kravet "begrenset signeringsrett" eller enkeltrettighet på de to tjenestene (tjenestekoder er 5132/1 for meldingstjenesten og 5299/1 for samtykket).
+Dersom det er definert at nøkkelrollene skal kunne delegere tilgang videre til andre i organisasjonen, kan den spesifikke rettigheten delegeres videre via Altinn. 
+[Ved å trykke her](/docs/utviklingsguider/ebevis/samtykkeprosessen) finner du skjermbilder for samtykkeprosessen.
+
 
 ## Autorisasjon 
 
